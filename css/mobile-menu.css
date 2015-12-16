@@ -76,6 +76,29 @@ TARGETING TABLET DEVICES BELOW
         width:100.px;
         margin:0px auto;
     }
+    .mre-mrt{
+        width:100%;
+    }
+    .mobileAside{
+        width:100%;
+        display:block; !important
+    }
+    .mobileAbout{
+        width:auto;
+        display:block;
+        margin:25px 0px;
+    }
+    .columnA, .columnB, .columnC{
+        width:auto;
+        margin:1% auto;
+    }
+    .columnA h2, .columnB h2, .columnC h2{
+        font-size:3em;
+    }
+    .mainWidth{
+        width:95%;
+        padding:20px;
+    }
 }
 
 
